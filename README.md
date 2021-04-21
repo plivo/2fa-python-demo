@@ -11,19 +11,19 @@ In other languages:
 <table>
    <tr>
       <td>.Net</td>
-      <td><a href="https://github.com/plivo-dev/2FA_Csharp">Done</a></td>
+      <td><a href="https://github.com/plivo/2fa-dotnet-demo">Done</a></td>
    </tr>
    <tr>
       <td>Ruby</td>
-      <td><a href="https://github.com/plivo-dev/2FA_SinatraApp">Done</a></td>
+      <td><a href="https://github.com/plivo/2fa-ruby-demo">Done</a></td>
    </tr>
    <tr>
       <td>NodeJS</td>
-      <td><a href="https://github.com/plivo-dev/2FA_ExpressApp">Done</a></td>
+      <td><a href="https://github.com/plivo/2fa-node-demo">Done</a></td>
    </tr>
    <tr>
       <td>PHP</td>
-      <td><a href="https://github.com/plivo-dev/2FA_PHP">Done</a></td>
+      <td><a href="https://github.com/plivo/2fa-php-demo">Done</a></td>
    </tr>
 </table>
 
@@ -40,11 +40,11 @@ This application verifies your phone number using the two factor authentication 
 
 1. Clone this repo.
     ```shell
-    git clone git@github.com:plivo-dev/2FA_FlaskApp.git    
+    git clone git@github.com:plivo//2fa-python-demo.git    
     ```
-2. Change your working directory to 2FA_FlaskApp
+2. Change your working directory to `2fa-python-demo`
     ```shell
-    cd 2FA_FlaskApp
+    cd 2fa-python-demo
     ```
 3. Install the dependencies using the requirements.txt file. You can use the below command.
     ```shell
